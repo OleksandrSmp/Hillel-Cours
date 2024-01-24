@@ -19,3 +19,4 @@ num, num2, num4, num6, num7 = num7, num6, num4, num2, num
 
 result = num *10000 + num2 * 1000 + num4 * 100 + num6 *10 + num7 *1
 print(result)
+
